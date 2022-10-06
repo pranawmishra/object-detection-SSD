@@ -11,7 +11,6 @@ dependencies:
 - libtiff=4.0.6=vc14_7
 - olefile=0.44=py35_0
 - pillow=4.2.1=py35_0
-- vc=14=0
 - astroid=1.5.3=py35_0
 - bleach=1.5.0=py35_0
 - certifi=2016.2.28=py35_0
@@ -68,7 +67,6 @@ dependencies:
 - wrapt=1.10.11=py35_0
 - zlib=1.2.11=vc14_0
 - opencv3=3.1.0=py35_0
-- pytorch=0.1.12=py35_0.1.12cu80
 - pip:
   - ipython-genutils==0.2.0
   - jupyter-client==5.1.0
@@ -102,4 +100,3 @@ dependencies:
   - rope==0.9.4=py35_1
   - sphinxcontrib==1.0=py35_0
   - requests==2.14.2=py35_0
-
